@@ -1,0 +1,3 @@
+REM das ist ein test
+CTRL n
+STRING hello test
